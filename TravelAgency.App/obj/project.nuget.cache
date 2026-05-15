@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "62tf52fEfhA=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\sapir\\OneDrive\\Робочий стіл\\Practica-OOP\\TravelAgency.App\\TravelAgency.App.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\sapir\\.nuget\\packages\\polly\\8.6.6\\polly.8.6.6.nupkg.sha512",
+    "C:\\Users\\sapir\\.nuget\\packages\\polly.core\\8.6.6\\polly.core.8.6.6.nupkg.sha512"
+  ],
+  "logs": []
+}

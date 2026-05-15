@@ -1,0 +1,11 @@
+C:\Users\sapir\OneDrive\Робочий стіл\Practica-OOP\TravelAgency.Domain\bin\Debug\net9.0\TravelAgency.Domain.deps.json
+C:\Users\sapir\OneDrive\Робочий стіл\Practica-OOP\TravelAgency.Domain\bin\Debug\net9.0\TravelAgency.Domain.dll
+C:\Users\sapir\OneDrive\Робочий стіл\Practica-OOP\TravelAgency.Domain\bin\Debug\net9.0\TravelAgency.Domain.pdb
+C:\Users\sapir\OneDrive\Робочий стіл\Practica-OOP\TravelAgency.Domain\obj\Debug\net9.0\TravelAgency.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sapir\OneDrive\Робочий стіл\Practica-OOP\TravelAgency.Domain\obj\Debug\net9.0\TravelAgency.Domain.AssemblyInfoInputs.cache
+C:\Users\sapir\OneDrive\Робочий стіл\Practica-OOP\TravelAgency.Domain\obj\Debug\net9.0\TravelAgency.Domain.AssemblyInfo.cs
+C:\Users\sapir\OneDrive\Робочий стіл\Practica-OOP\TravelAgency.Domain\obj\Debug\net9.0\TravelAgency.Domain.csproj.CoreCompileInputs.cache
+C:\Users\sapir\OneDrive\Робочий стіл\Practica-OOP\TravelAgency.Domain\obj\Debug\net9.0\TravelAgency.Domain.dll
+C:\Users\sapir\OneDrive\Робочий стіл\Practica-OOP\TravelAgency.Domain\obj\Debug\net9.0\refint\TravelAgency.Domain.dll
+C:\Users\sapir\OneDrive\Робочий стіл\Practica-OOP\TravelAgency.Domain\obj\Debug\net9.0\TravelAgency.Domain.pdb
+C:\Users\sapir\OneDrive\Робочий стіл\Practica-OOP\TravelAgency.Domain\obj\Debug\net9.0\ref\TravelAgency.Domain.dll

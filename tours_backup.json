@@ -1,0 +1,18 @@
+[
+  {
+    "Id": "5de41087-d10e-4849-a1d7-fc597a7f5b9d",
+    "TourName": "\u0422\u0443\u0440 \u0434\u043E \u0420\u0438\u043C\u0443",
+    "BasePrice": 500,
+    "HotelName": null,
+    "FlightDetails": null,
+    "HasExcursions": false
+  },
+  {
+    "Id": "c83e5d67-6033-4f6b-8bf2-ebdae986152a",
+    "TourName": "\u0422\u0443\u0440 \u0434\u043E \u0422\u043E\u043A\u0456\u043E",
+    "BasePrice": 2500,
+    "HotelName": null,
+    "FlightDetails": null,
+    "HasExcursions": false
+  }
+]
